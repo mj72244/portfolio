@@ -1,0 +1,2 @@
+{{ define "main" }}<article>{{ if not .IsHome }}<h1>{{ .Title }}</h1>{{ end }}{{ .Content }}
+{{ with .Pages.ByTitle }}<ul class="children">{{ range sort . "File.BaseFileName" }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}</ul>{{ end }}</article>{{ end }}

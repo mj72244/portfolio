@@ -1,0 +1,1 @@
+{{ define "main" }}<article>{{ if not (findRE "^\\s*#" .RawContent) }}<h1>{{ .Title }}</h1>{{ end }}{{ .Content }}</article>{{ end }}

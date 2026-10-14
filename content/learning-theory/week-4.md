@@ -59,7 +59,7 @@ Constructivism, with its emphasis on exploration and collaboration, aligns well 
 
 ## References
 
-Kimmons, R. (2022). Constructivism. In Education research across multiple paradigms. BYU Open Learning Network. https://open.byu.edu/education\_research/constructivismy  
+Kimmons, R. (2022). Constructivism. In Education research across multiple paradigms. BYU Open Learning Network. <https://open.byu.edu/education_research/constructivismy>
 
 McLeod, S. (2025, February 1). Vygotsky’s zone of proximal development and scaffolding theory. Simply Psychology. https://www.simplypsychology.org/zone-of-proximal-development.html  
 

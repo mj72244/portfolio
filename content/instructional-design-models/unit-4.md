@@ -43,6 +43,6 @@ However, UbD does have limitations that challenge the design of my 45-minute mic
 
 Avenues The World School. (2013, February 28). Grant Wiggins - Understanding by Design (1 of 2) [Video]. YouTube. https://www.youtube.com/watch?v=4isSHf3SBuQ
 
-McTighe, J., & Wiggins, G. (2012). Understanding by Design® framework [White paper]. ASCD. https://files.ascd.org/staticfiles/ascd/pdf/siteASCD/publications/UbD\_WhitePaper0312.pdf
+McTighe, J., & Wiggins, G. (2012). Understanding by Design® framework [White paper]. ASCD. <https://files.ascd.org/staticfiles/ascd/pdf/siteASCD/publications/UbD_WhitePaper0312.pdf>
 
 Reaves, M., Chapparo, R., Bunch, J. C., & Jagger, C. B. (2019). What is Understanding by Design (UbD)?(AEC659/WC322). University of Florida IFAS Extension. https://edis.ifas.ufl.edu/publication/WC322

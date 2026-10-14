@@ -12,4 +12,4 @@ By the end of this course, learners will be able to:
   3. Analyze case simulations to differentiate between standard and scenario-specific considerations for pain assessment, reassessment, and titration of analgesics, prioritizing patient comfort without delaying transport or compromising safety.
   4. Demonstrate decision-making confidence in selecting and administering appropriate pain management strategies for less-common presentations through scenario-based practice.
 
-Maryland Institute for Emergency Medical Services Systems. (2025). Maryland Medical Protocols for Emergency Medical Services (2025 ed.) [PDF]. https://www.miemss.org/home/Portals/0/Docs/Guidelines\_Protocols/MD-Medical-Protocols-2025-Print-04282025.pdf
+Maryland Institute for Emergency Medical Services Systems. (2025). Maryland Medical Protocols for Emergency Medical Services (2025 ed.) [PDF]. <https://www.miemss.org/home/Portals/0/Docs/Guidelines_Protocols/MD-Medical-Protocols-2025-Print-04282025.pdf>

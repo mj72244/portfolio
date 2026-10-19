@@ -1,2 +1,5 @@
 {{ define "main" }}<article>{{ if not .IsHome }}<h1>{{ .Title }}</h1>{{ end }}{{ .Content }}
-{{ with .Pages.ByTitle }}<ul class="children">{{ range sort . "File.BaseFileName" }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}</ul>{{ end }}</article>{{ end }}
+{{- /* Auto-list only the child pages this section's own text doesn't already link to */ -}}
+{{- $content := string .Content -}}{{- $unlinked := slice -}}
+{{- range sort .Pages "File.BaseFileName" -}}{{- if not (strings.Contains $content (printf "href=\"%s\"" .RelPermalink)) -}}{{- $unlinked = $unlinked | append . -}}{{- end -}}{{- end -}}
+{{ with $unlinked }}<ul class="children">{{ range . }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}</ul>{{ end }}</article>{{ end }}

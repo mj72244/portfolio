@@ -3,3 +3,7 @@ header{display:flex;flex-wrap:wrap;gap:1rem;align-items:center;padding:1rem 0;bo
 .brand{font-weight:700;font-size:1.2rem;text-decoration:none;color:#e21833}
 nav a{margin-right:.8rem;text-decoration:none;color:#333}nav a.active{color:#e21833;font-weight:600}
 img{max-width:100%;height:auto}footer{margin:3rem 0 1rem;font-size:.85rem;color:#666;border-top:1px solid #ddd;padding-top:1rem}
+
+.pdf-embed { margin: 1.5rem 0; }
+.pdf-embed object { border: 1px solid #ddd; border-radius: 4px; }
+.pdf-embed figcaption { margin-top: .5rem; font-size: .95rem; }

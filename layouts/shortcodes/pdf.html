@@ -1,0 +1,7 @@
+{{- $src := .Get "src" | relURL -}}{{- $title := .Get "title" | default "PDF document" -}}
+<figure class="pdf-embed">
+<object data="{{ $src }}" type="application/pdf" width="100%" height="720" aria-label="{{ $title }}">
+<p>Your browser can't display this PDF here. <a href="{{ $src }}">Download {{ $title }}</a>.</p>
+</object>
+<figcaption><a href="{{ $src }}">Open or download: {{ $title }} (PDF)</a></figcaption>
+</figure>

@@ -1,0 +1,8 @@
+{{- $src := .Get "src" | relURL -}}{{- $title := .Get "title" | default "Audio" -}}
+<figure class="audio-embed">
+<audio controls preload="metadata" aria-label="{{ $title }}">
+<source src="{{ $src }}" type="audio/mp4">
+<p>Your browser can't play this audio here. <a href="{{ $src }}">Download {{ $title }}</a>.</p>
+</audio>
+<figcaption><a href="{{ $src }}">Open or download: {{ $title }} (audio)</a></figcaption>
+</figure>

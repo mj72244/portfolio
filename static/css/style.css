@@ -7,3 +7,7 @@ img{max-width:100%;height:auto}footer{margin:3rem 0 1rem;font-size:.85rem;color:
 .pdf-embed { margin: 1.5rem 0; }
 .pdf-embed object { border: 1px solid #ddd; border-radius: 4px; }
 .pdf-embed figcaption { margin-top: .5rem; font-size: .95rem; }
+
+.audio-embed { margin: 1.5rem 0; }
+.audio-embed audio { width: 100%; }
+.audio-embed figcaption { margin-top: .5rem; font-size: .95rem; }

@@ -14,7 +14,7 @@ This page tracks the digital media objects being considered for the minicourse.
 | [Assessment and Management of Pain in Adults: A Clinical Guide for Healthcare Providers](https://ecampusontario.pressbooks.pub/assessmentandmanagementofpaininadults) | Open textbook (OER) | CC BY-NC | CLO 1 | 
 | [Comfort is Required: Ethics of Pain Management for MOLST Option B](/files/comfort-is-required-digital-document.pdf) | Digital document (PDF) | CC BY | CLO 1 |
 | [Comfort is Required (audio)](/files/comfort-is-required-audio.m4a) | Audio (M4A) | CC BY | CLO 1 |
-| [Pain Management: EMS Special Cases logo](/files/pain-management-ems-special-cases-logo.jpg) | Logo / digital image (JPG) | © Mark Johnson (original work) | CLO 1 |
+| [Pain Management: EMS Special Cases logo](/files/pain-management-ems-special-cases-logo.jpg) | Logo / digital image (JPG) | CC BY-SA 4.0 | CLO 1 |
 
 ## Assessment and Management of Pain in Adults
 
@@ -39,3 +39,8 @@ This page tracks the digital media objects being considered for the minicourse.
 ## Pain Management: EMS Special Cases Logo
 
 ![Pain Management EMS Special Cases logo: navy circular badge with a Star of Life and a hand and flame at the center](/files/pain-management-ems-special-cases-logo.jpg)
+
+### Completed Checklist
+
+{{< pdf src="files/digital-media-checklist-pain-management-logo.pdf" title="Digital Media Checklist: Pain Management EMS Special Cases Logo" >}}
+

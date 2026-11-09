@@ -15,6 +15,7 @@ This page tracks the digital media objects being considered for the minicourse.
 | [Comfort is Required: Ethics of Pain Management for MOLST Option B](/files/comfort-is-required-digital-document.pdf) | Digital document (PDF) | CC BY | CLO 1 |
 | [Comfort is Required (audio)](/files/comfort-is-required-audio.m4a) | Audio (M4A) | CC BY | CLO 1 |
 | [Pain Management: EMS Special Cases logo](/files/pain-management-ems-special-cases-logo.jpg) | Logo / digital image (JPG) | CC BY-SA 4.0 | CLO 1 |
+| [Palliative Care in EMS: Managing Acute Pain Under MOLST Option B](https://www.youtube.com/watch?v=obemkFMy28M) | Video (YouTube) | CC BY-SA 4.0 | CLO 1 |
 
 ## Assessment and Management of Pain in Adults
 
@@ -44,3 +45,6 @@ This page tracks the digital media objects being considered for the minicourse.
 
 {{< pdf src="files/digital-media-checklist-pain-management-logo.pdf" title="Digital Media Checklist: Pain Management EMS Special Cases Logo" >}}
 
+## Palliative Care in EMS: Managing Acute Pain Under MOLST Option B
+
+{{< youtube obemkFMy28M >}}

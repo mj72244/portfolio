@@ -10,3 +10,5 @@ Unit 1: [Digital Media Checklist](/digital-media-design/unit-1/)
 Unit 2: [Digital Document](/digital-media-design/unit-2/)
 
 Unit 3: [Digital Image](/digital-media-design/unit-3/)
+
+Unit 4: [Minicourse Video](/digital-media-design/unit-4/)

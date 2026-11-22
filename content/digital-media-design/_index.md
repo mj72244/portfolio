@@ -14,3 +14,5 @@ Unit 3: [Digital Image](/digital-media-design/unit-3/)
 Unit 4: [Minicourse Video](/digital-media-design/unit-4/)
 
 Unit 5: [Screencast or Animation Minicourse Video](/digital-media-design/unit-5/)
+
+Unit 6: [Interactive Module Storyboard Draft](/digital-media-design/unit-6/)
